@@ -9,8 +9,8 @@ The solution contains 6 projects:
   Prerequisite:
   
     To able to run the project I used npm, node.js, bower, gulp
-      a.	Please download first the npm and node.js
       
+      a.	Please download first the npm and node.js      
       b.	I used npm to install bower and gulp by entering the command below in npm console      
           npm install -g bower          
           npm install -g gulp          
