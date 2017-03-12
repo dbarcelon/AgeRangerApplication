@@ -4,6 +4,7 @@ Age Ranger Application Technical Exam
 I have implemented the Age Ranger Application by using AngularJS Version 1.x as the client interface and ASP.Net Web API as the back-end tier to connect to the database using C#, LinQ, SQLLite
 
 The solution contains 6 projects:
+
 1.	AgeRanger – This project contains the client interface which uses AngularJS, Bootstrap, HTML5, CSS3, JQuery to implement Age Ranger UI
   Prerequisite:
   
