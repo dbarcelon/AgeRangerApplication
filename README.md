@@ -10,7 +10,7 @@ The solution contains 6 projects:
   
     To able to run the project I used npm, node.js, bower, gulp
       
-      a.	Please download first the npm and node.js      
+      a.	Please download first the npm and node.js, GIT shell      
       b.	I used npm to install bower and gulp by entering the command below in npm console      
           npm install -g bower          
           npm install -g gulp          
@@ -55,3 +55,6 @@ The solution contains 6 projects:
 </connectionStrings>
 
     change the the directory of "C:\Personal\Application\Robert Half Technology\AgeRanger-master\AgeRanger-master\Solution\AgeRanger\AgeRanger.API\App_Data\AgeRanger.db" to the actual directory of the Ranger.db
+    
+    
+    Note: Please read the document "How to configure and run the application" to check the system on how it will work.
