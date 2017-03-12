@@ -33,3 +33,12 @@ The solution contains 6 projects:
 4.	AgeRanger.Data – This project contains the definition of data model, data repository and handling the data connection to the database. This was called by “AgeRanger.Business” for data manipulation
 5.	AgeRanger.Utils – This project contains the ad-hoc utilities that were used by the system such as event logging to identify easily why the system does not successfully run or why the record was not added.
 6.	AgeRanger.API.Tests – This project contains the unit testing for the project “AgeRanger.API”
+    
+    Note:
+    If you want to try to use the Unit Test, If a problem occured in connecting to the Ranger.db similar with the AgeRanger.API, please change the directory of connection string under app.config like the one below:
+    
+    <connectionStrings>
+    <add name="DBConnection" connectionString="Data Source=C:\Personal\Application\Robert Half Technology\AgeRanger-master\AgeRanger-master\Solution\AgeRanger\AgeRanger.API\App_Data\AgeRanger.db" />
+</connectionStrings>
+
+    change the the directory of "C:\Personal\Application\Robert Half Technology\AgeRanger-master\AgeRanger-master\Solution\AgeRanger\AgeRanger.API\App_Data\AgeRanger.db" to the actual directory of the Ranger.db
