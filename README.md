@@ -13,8 +13,7 @@ The solution contains 6 projects:
       
       b.	I used npm to install bower and gulp by entering the command below in npm console
       
-          npm install -g bower
-          
+          npm install -g bower          
           npm install -g gulp
           
       c.	After downloading the said tools, I used “bower” to download the components that I define in “bower.json” that was needed in the project by entering the command below:
