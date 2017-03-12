@@ -11,11 +11,9 @@ The solution contains 6 projects:
     To able to run the project I used npm, node.js, bower, gulp
       a.	Please download first the npm and node.js
       
-      b.	I used npm to install bower and gulp by entering the command below in npm console
-      
+      b.	I used npm to install bower and gulp by entering the command below in npm console      
           npm install -g bower          
-          npm install -g gulp
-          
+          npm install -g gulp          
       c.	After downloading the said tools, I used “bower” to download the components that I define in “bower.json” that was needed in the project by entering the command below:
           bower install
       d.	I used “gulp” to run the client interface in node.js server by entering the command below:
